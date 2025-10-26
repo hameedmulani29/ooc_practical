@@ -10,18 +10,24 @@ Each program demonstrates a key concept of OOP, from basic class design to advan
 The repository is organized by experiment number and topic for easy navigation.
 Each file is self-contained and includes comments explaining the logic and concept used.
 
-| Sr. No. | Topic / Concept                 | Filename                          | Description                                                      |
-| ------- | ------------------------------- | --------------------------------- | ---------------------------------------------------------------- |
-| 1       | Classes and Objects             | `exp1_class_object.cpp`           | Demonstrates how to define and use classes and objects.          |
-| 2       | Constructors and Destructors    | `exp2_constructor_destructor.cpp` | Shows types of constructors and destructor behavior.             |
-| 3       | Function Overloading            | `exp3_function_overloading.cpp`   | Implements compile-time polymorphism using function overloading. |
-| 4       | Operator Overloading            | `exp4_operator_overloading.cpp`   | Demonstrates overloading of arithmetic and relational operators. |
-| 5       | Inheritance                     | `exp5_inheritance.cpp`            | Shows single, multiple, and multilevel inheritance.              |
-| 6       | Virtual Functions               | `exp6_virtual_function.cpp`       | Demonstrates runtime polymorphism using virtual functions.       |
-| 7       | File Handling                   | `exp7_file_handling.cpp`          | Implements reading and writing to files in C++.                  |
-| 8       | Templates                       | `exp8_templates.cpp`              | Demonstrates use of class and function templates.                |
-| 9       | Exception Handling              | `exp9_exception_handling.cpp`     | Handles runtime errors using try–catch blocks.                   |
-| 10      | STL (Standard Template Library) | `exp10_stl.cpp`                   | Demonstrates use of vectors, maps, and iterators.                |
+| Sr. No. | Topic / Concept       | Filename                  | Description                 |
+| ------- | ------------------- | ------------------------ | --------------------------- |
+| 1       | [Experiment Name 1]  | `exp1_placeholder.cpp`    | Description to be added.    |
+| 2       | [Experiment Name 2]  | `exp2_placeholder.cpp`    | Description to be added.    |
+| 3       | [Experiment Name 3]  | `exp3_placeholder.cpp`    | Description to be added.    |
+| 4       | [Experiment Name 4]  | `exp4_placeholder.cpp`    | Description to be added.    |
+| 5       | [Experiment Name 5]  | `exp5_placeholder.cpp`    | Description to be added.    |
+| 6       | [Experiment Name 6]  | `exp6_placeholder.cpp`    | Description to be added.    |
+| 7       | [Experiment Name 7]  | `exp7_placeholder.cpp`    | Description to be added.    |
+| 8       | [Experiment Name 8]  | `exp8_placeholder.cpp`    | Description to be added.    |
+| 9       | [Experiment Name 9]  | `exp9_placeholder.cpp`    | Description to be added.    |
+| 10      | [Experiment Name 10] | `exp10_placeholder.cpp`   | Description to be added.    |
+| 11      | [Experiment Name 11] | `exp11_placeholder.cpp`   | Description to be added.    |
+| 12      | [Experiment Name 12] | `exp12_placeholder.cpp`   | Description to be added.    |
+| 13      | [Experiment Name 13] | `exp13_placeholder.cpp`   | Description to be added.    |
+| 14      | [Experiment Name 14] | `exp14_placeholder.cpp`   | Description to be added.    |
+| 15      | [Experiment Name 15] | `exp15_placeholder.cpp`   | Description to be added.    |
+
 
 🧠 Concepts Covered
 Classes and Objects
@@ -45,6 +51,7 @@ Standard Template Library (STL)
 
 
 ✨ Author
-Hameed Mulani
+
+# Hameed Mulani 
 📘 Second Year | DYPCET
 💻 Passionate about C++ and Software Development
