@@ -12,7 +12,7 @@ Each file is self-contained and includes comments explaining the logic and conce
 
 | Sr. No. | Topic / Concept       | Filename                  | Description                 |
 | ------- | ------------------- | ------------------------ | --------------------------- |
-| 1       | Experiment Name 2 | `exp01.cpp`    | Defining a class named Student    |
+| 1       | Experiment Name 1 | `exp01.cpp`    | Defining a class named Student    |
 | 2       | Experiment Name 2  | `exp2_placeholder.cpp`    | Description to be added.    |
 | 3       | Experiment Name 3  | `exp3_placeholder.cpp`    | Description to be added.    |
 | 4       | Experiment Name 4  | `exp4_placeholder.cpp`    | Description to be added.    |
