@@ -17,15 +17,15 @@ Each file is self-contained and includes comments explaining the logic and conce
 | 3       | Experiment Name 3  | `exp03.cpp`    | Savings & Checking Account   |
 | 4       | Experiment Name 4  | `exp04.cpp`    | Description to be added.    |
 | 5       | Experiment Name 5 | `exp05.cpp`    | Function Overloading    |
-| 6       | Experiment Name 6  | `exp06.cpp`    | Description to be added.    |
-| 7       | Experiment Name 7 | `exp07.cpp` | Description to be added.    |
+| 6       | Experiment Name 6  | `exp06.cpp`    | Hierarchical & Multilevel Inheritance    |
+| 7       | Experiment Name 7 | `exp07.cpp` | Multiple Inheritance    |
 | 8       | Experiment Name 8  | `exp08.cpp`    | Description to be added.    |
 | 9       | Experiment Name 9  | `exp09.cpp`    | Description to be added.    |
 | 10      | Experiment Name 10| `exp10.cpp`   | Description to be added.    |
 | 11      | Experiment Name 11| `exp11.cpp`   | Description to be added.    |
 | 12      | Experiment Name 12 | `exp12.cpp`   | Description to be added.    |
-| 13      | Experiment Name 13 | `exp13.cpp`   | Description to be added.    |
-| 14      | Experiment Name 14 | `exp14.cpp`   | Description to be added.    |
+| 13      | Experiment Name 13 | `exp13.cpp`   | Try -- Catch && Exception in c++    |
+| 14      | Experiment Name 14 | `exp14.cpp`   | STL containers    |
 | 15      | Experiment Name 15 | `exp15.cpp`   | Description to be added.    |
 
 
