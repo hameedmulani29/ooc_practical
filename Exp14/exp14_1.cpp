@@ -8,6 +8,17 @@ inline T const& Max(T const& a, T const& b) {
 }
 
 int main() {
+
+    string name = "Hameed Samir Mulani";
+    string className = "SY - B";
+    int rollNo = 29;
+    string academicYear = "2024-25";
+
+    cout << name << endl;
+    cout << className << endl;
+    cout << rollNo << endl;
+    cout << academicYear << endl;
+    
     int i = 39;
     int j = 20;
     cout << "Max(i, j): " << Max(i, j) << endl;

@@ -29,6 +29,17 @@ class MyClass {
 };
 
 int main() {
+
+    string name = "Hameed Samir Mulani";
+    string className = "SY - B";
+    int rollNo = 29;
+    string academicYear = "2024-25";
+
+    cout << name << endl;
+    cout << className << endl;
+    cout << rollNo << endl;
+    cout << academicYear << endl;
+    
     MyClass obj1(20), obj2(20);
     if (obj1 == obj2)
         cout << "obj1 is equal to obj2" << endl;

@@ -59,6 +59,17 @@ class Triangle : public Shape {
 };
 
 int main() {
+
+    string name = "Hameed Samir Mulani";
+    string className = "SY - B";
+    int rollNo = 29;
+    string academicYear = "2024-25";
+
+    cout << name << endl;
+    cout << className << endl;
+    cout << rollNo << endl;
+    cout << academicYear << endl;
+    
     Circle circle(7.0);
     Rectangle rectangle(4.2, 8.0);
     Triangle triangle(4.0, 4.0, 3.2);

@@ -69,6 +69,17 @@ class StudentResult : public StudentExam {
 };
 
 int main(){
+
+    string name = "Hameed Samir Mulani";
+    string className = "SY - B";
+    int rollNo = 29;
+    string academicYear = "2024-25";
+
+    cout << name << endl;
+    cout << className << endl;
+    cout << rollNo << endl;
+    cout << academicYear << endl;
+    
     StudentResult str;
     int count, i;
     cout << "Enter No. of Student You Want?: ";
