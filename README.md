@@ -10,23 +10,23 @@ Each program demonstrates a key concept of OOP, from basic class design to advan
 The repository is organized by experiment number and topic for easy navigation.
 Each file is self-contained and includes comments explaining the logic and concept used.
 
-| Sr. No. | Topic / Concept       | Filename                  | Description                 |
+| Sr. No. | Topic / Concept       | Filename / Folder Name                 | Description                 |
 | ------- | ------------------- | ------------------------ | --------------------------- |
 | 1       | Experiment Name 1 | `exp01.cpp`    | Defining a class named Student    |
 | 2       | Experiment Name 2  |  `exp02.cpp`   | Defining a class for Complex Numbers    |
 | 3       | Experiment Name 3  | `exp03.cpp`    | Savings & Checking Account   |
 | 4       | Experiment Name 4  | `exp04.cpp`    | Description to be added.    |
 | 5       | Experiment Name 5 | `exp05.cpp`    | Function Overloading    |
-| 6       | Experiment Name 6  | `exp06.cpp`    | Hierarchical & Multilevel Inheritance    |
-| 7       | Experiment Name 7 | `exp07.cpp` | Multiple Inheritance    |
-| 8       | Experiment Name 8  | `exp08.cpp`    | Description to be added.    |
-| 9       | Experiment Name 9  | `exp09.cpp`    | Description to be added.    |
-| 10      | Experiment Name 10| `exp10.cpp`   | Description to be added.    |
-| 11      | Experiment Name 11| `exp11.cpp`   | Description to be added.    |
-| 12      | Experiment Name 12 | `exp12.cpp`   | Description to be added.    |
-| 13      | Experiment Name 13 | `exp13.cpp`   | Try -- Catch && Exception in c++    |
-| 14      | Experiment Name 14 | `exp14.cpp`   | STL containers    |
-| 15      | Experiment Name 15 | `exp15.cpp`   | Description to be added.    |
+| 6       | Experiment Name 6  | `Exp06.cpp`    | Hierarchical & Multilevel Inheritance    |
+| 7       | Experiment Name 7 | `Exp07.cpp` | Multiple Inheritance    |
+| 8       | Experiment Name 8  | `Exp08.cpp`    | Operator Overloading   |
+| 9       | Experiment Name 9  | `exp09.cpp`    | Insertion & Extraction operator    |
+| 10      | Experiment Name 10| `exp10.cpp`   | Virtual Functions    |
+| 11      | Experiment Name 11| `exp11.cpp`   | Virtual Functions    |
+| 12      | Experiment Name 12 | `exp12.cpp`   | File Handling    |
+| 13      | Experiment Name 13 | `Exp13.cpp`   | Try -- Catch && Exception in c++    |
+| 14      | Experiment Name 14 | `Exp14.cpp`   | STL containers    |
+| 15      | Experiment Name 15 | `exp15.cpp`   | C++ Mini Project   |
 
 
 🧠 Concepts Covered
