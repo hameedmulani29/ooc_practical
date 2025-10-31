@@ -15,7 +15,7 @@ Each file is self-contained and includes comments explaining the logic and conce
 | 1       | Experiment Name 1 | `exp01.cpp`    | Defining a class named Student    |
 | 2       | Experiment Name 2  |  `exp02.cpp`   | Defining a class for Complex Numbers    |
 | 3       | Experiment Name 3  | `exp03.cpp`    | Savings & Checking Account   |
-| 4       | Experiment Name 4  | `exp04.cpp`    | Description to be added.    |
+| 4       | Experiment Name 4  | `exp04.cpp`    | Constructors & Destructors    |
 | 5       | Experiment Name 5 | `exp05.cpp`    | Function Overloading    |
 | 6       | Experiment Name 6  | `Exp06.cpp`    | Hierarchical & Multilevel Inheritance    |
 | 7       | Experiment Name 7 | `Exp07.cpp` | Multiple Inheritance    |
