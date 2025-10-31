@@ -44,4 +44,16 @@ int main(){
     Complex C3;
     C3 = C3.addComplexNumbers(C1, C2);
     cout << "Sum of complex numbers: " << C3.real << " +i " << C3.imag << endl;
+
+
+    Complex A(2,7);
+    cout << "Complex number 1 :" << A.real << " +i" << A.imag << endl;
+    Complex B(10,6);
+    cout << "Complex number 2 :" << B.real << " +i" << B.imag << endl;
+
+    Complex C;
+    C = C.addComplexNumbers(A, B);
+    cout << "Sum of complex numbers: " << C.real << " +i" << C.imag << endl;
+    
+    return 0;
 }
