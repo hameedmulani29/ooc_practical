@@ -18,7 +18,7 @@ class Fare {
 class Bus : public Vehicle, public Fare{
     public:
         Bus(){
-            cout << "This Vehicle is Bus anf has Fare" << endl;
+            cout << "This Vehicle is Bus and has Fare" << endl;
         }
 };
 
