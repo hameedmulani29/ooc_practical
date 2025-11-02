@@ -8,22 +8,22 @@ class Vehicle{
         }
 };
 
-class Fourwheeler {
+class Fare {
     public:
-        Fourwheeler(){
-            cout << "This is 4 wheeler" << endl;
+        Fare(){
+            cout << "This vehicle has fare" << endl;
         }
 };
 
-class Car : public Vehicle, public Fourwheeler{
+class Bus : public Vehicle, public Fare{
     public:
-        Car(){
-            cout << "This 4 wheeler is car" << endl;
+        Bus(){
+            cout << "This Vehicle is Bus anf has Fare" << endl;
         }
 };
 
 int main(){
 
-    Car c;
+    Bus obj;
     return 0;
 }
