@@ -12,7 +12,7 @@ class Distance {
             feet = f;
             inch = i;
         }
-        Distance operator+(Distance d2) {
+        Distance operator+(Distance &d2) {
             Distance d3;
             d3.feet = this->feet + d2.feet;
             d3.inch = this->inch + d2.inch;
